@@ -97,8 +97,8 @@ text: PropTypes.string.isRequired,
 
 WrappedListComponent.defaultProps = {
 items: [
-{ text: "William", key: 1 },
-{ text: "Soumya", key: 2 }, ],
+{ text: "Tisha", key: 1 },
+{ text: "Singh", key: 2 }, ],
 };
 
 const List = memo(WrappedListComponent);
